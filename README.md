@@ -1,16 +1,19 @@
 # Datathon and Hackathon
 
-# Hello All Guests,
+# Hello All Participants,
 
-We Welcome you to the Datathon and Hackathon Contest. 
+We Welcome you to the Datathon & Hackathon Contest. 
 
-Our team will be looking forward to know you and help you incase you need any help. 
+Our team is looking forward to meeting you and help you in the competition. 
 
-Our websites: www.annotationportal.com 
+Our Annotation Portal website is www.annotationportal.com 
 
 our email is: annotationporta@gmail.com
 
 
-All the luck..
+Good luck
 
-Annotation Portal Team, 
+Annotation Portal Team
+
+
+Here are some links to tutorials that might be useful for the hackathon part of the competition.
