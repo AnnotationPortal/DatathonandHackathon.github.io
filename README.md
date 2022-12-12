@@ -1,6 +1,6 @@
 # Datathon and Hackathon
 
-# Hello All Guests,, 
+# Hello All Guests,
 
 We Welcome you to the Datathon and Hackathon Contest. 
 
