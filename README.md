@@ -2,9 +2,9 @@
 
 # Hello All Participants,
 
-We Welcome you to the Datathon & Hackathon Contest. 
+Welcome to the Datathon & Hackathon Contest. 
 
-Our team is looking forward to meeting you and help you in the competition. 
+Our team is looking forward to meeting you and to help you in the competition. 
 
 Please find more information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
 
