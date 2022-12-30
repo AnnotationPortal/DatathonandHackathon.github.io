@@ -29,4 +29,4 @@
 ##### Voyant Tools - for textual analysis and visualizations. https://voyant-tools.org/   
 
 -----------------------------------------------------
-##### By using any of suggested guides, tutorials or tools, please make sure to reference them accordingly.
+##### By using any of the suggested guides, tutorials or tools, please make sure to reference them accordingly.
