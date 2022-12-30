@@ -7,7 +7,7 @@
 ### Dependencies
 
 #### For processing textual data:
-#### NLTK - https://www.nltk.org/install.html
+##### NLTK - https://www.nltk.org/install.html
 -----------------------------------------------------
 
 ### Data-visualization
