@@ -19,4 +19,3 @@ The material from the 2020 Hackathon and Datathon on Antisemitism in Social Medi
 ## Supporting Material
 
 Here are some links to tutorials that might be useful for the hackathon part of the competition.
-
