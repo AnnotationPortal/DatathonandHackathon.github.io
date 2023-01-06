@@ -13,9 +13,14 @@ Please find more information here, https://isca.indiana.edu/publication-research
 
 Our Annotation Portal website is www.annotationportal.com 
 
+patch-1
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
 
 ## Supporting Material
 
 Here are some links to tutorials that might be useful for the hackathon part of the competition.
+
+Check out the file named "NLP-Tools and Guides.md" you will find the guids and tutorial. 
+
+main
