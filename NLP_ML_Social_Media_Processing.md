@@ -1,6 +1,6 @@
 # Natural Language Processing and Machine Learning for Social Media Hate-speech Analysis
 
-[Damir Cavar](http://damir.cavar.me/) at the [Natural Language Processing Lab](https://nlp-lab.org/)
+[Damir Cavar](http://damir.cavar.me/) at the [Natural Language Processing Lab](https://nlp-lab.org/) at [Indiana University at Bloomington].
 
 
 In the tutorial for this Hackathon and Datathon we will mostly work with a [PyTorch]-based environment for Natural Language Processing called [spaCy], using [Python 3.10.9](https://www.python.org/downloads/) (not any of the 3.11 versions yet due to lack of compatibility!) and Visual Studio Code.
@@ -25,6 +25,17 @@ Links and other information material will be provided here ASAP.
 In 2020 we organized a Hackathon and Datathon at Indiana University in Bloomington on antisemitism in social media. The information and resources can be found here:
 
 [Antisemitism Datathon 2020](https://github.com/dcavar/AntisemitismDatathon2020)
+
+
+## Data Sets and Formats
+
+The data and corpus will be provided to you in a specific CSV format. We will also provide a CoNLL formated version of the data. These are formats that the different Machine Learning libraries for NLP mentioned above can read.
+
+You might want to have a look at the different corpus or linguistic data formats:
+
+- [CoNLL-X](https://www.aclweb.org/anthology/W06-2920.pdf)
+- [CoNLL-U](https://universaldependencies.org/format.html)
+- [spaCy JSON](https://spacy.io/usage/training)
 
 
 
