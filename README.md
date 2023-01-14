@@ -11,7 +11,7 @@ The Datathon and Hackathon will organize meetings and presentations. The materia
 
 Please find more information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
 
-Our Annotation Portal website is www.annotationportal.com 
+Our Annotation Portal website is www.workshop.annotationportal.com/
 
 patch-1
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
