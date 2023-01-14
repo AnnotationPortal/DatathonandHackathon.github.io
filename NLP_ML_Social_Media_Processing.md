@@ -1,6 +1,6 @@
 # Natural Language Processing and Machine Learning for Social Media Hate-speech Analysis
 
-[Damir Cavar](http://damir.cavar.me/) at the [Natural Language Processing Lab](https://nlp-lab.org/) at [Indiana University at Bloomington].
+[Damir Cavar](http://damir.cavar.me/) at the [Natural Language Processing Lab](https://nlp-lab.org/) at [Indiana University at Bloomington](https://www.indiana.edu/).
 
 
 In the tutorial for this Hackathon and Datathon we will mostly work with a [PyTorch]-based environment for Natural Language Processing called [spaCy], using [Python 3.10.9](https://www.python.org/downloads/) (not any of the 3.11 versions yet due to lack of compatibility!) and Visual Studio Code.
