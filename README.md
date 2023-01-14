@@ -2,7 +2,7 @@
 
 The Datathon and Hackathon will organize meetings and presentations. The materials and links to resources for these meetings are listed below:
 
-- Tutorial on Social Media Text pre-processing and classification
+- [Tutorial and Material on Social Media Text pre-processing and classification](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/NLP_ML_Social_Media_Processing.md)
 - ...
 
 
