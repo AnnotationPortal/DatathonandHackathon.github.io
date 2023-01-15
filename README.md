@@ -23,4 +23,4 @@ Here are some links to tutorials that might be useful for the hackathon part of 
 
 Check out the file named "NLP-Tools and Guides.md" you will find the guides and tutorials. 
 
-
+PPT from January 15, 2023, on psychological and historical reasons for racism and antisemitism
