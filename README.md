@@ -11,13 +11,13 @@ The Datathon and Hackathon will organize meetings and presentations. The materia
 
 Please find more information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
 
-### DATATHON PART OF THE COMPETION (PART I, JANUARY 23 to February 19, 2023)
+### DATATHON PART OF THE COMPETITION (PART I, JANUARY 23 to February 19, 2023)
 
 Please use our Annotation Portal at https://workshop.annotationportal.com/
 
 We will count the number of tweets that your group has annotated correctly (according to expert annotators who labeled the same samples previously) per number of group members. The Potral saves your annotation automatically. Make sure that you register to the Portal with the same email address that you used to register for this competition. You can see how you labeled the dataset by using the "Exort" function of the Portal. We will count all annotations until February 19, 2023. You can use any or all of the different annotation types that you see on the Portal, according to your competences and preferences. In addition to increasing your points for the Datathon part, the annotation process will also help you to familiarize yourself with the content. The labeled datasets that you will receive for the Hackathon part of the competition come from the same samples.
 
-### HACKATHON PART OF THE COMPETION (PART II, JANUARY 30 to February 19, 2023)
+### HACKATHON PART OF THE COMPETITION (PART II, JANUARY 30 to February 19, 2023)
 
 More information and the labeled dataset will be provided at the workshop on January 29
 
