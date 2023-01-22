@@ -12,6 +12,7 @@ The Datathon and Hackathon will organize meetings and presentations. The materia
 Please find more information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
 
 Our Annotation Portal website is https://workshop.annotationportal.com/
+For the Datathon part of the competition: We will count the number of tweets that your group has annotated correctly (according to expert annotators who labeled the same samples previously) per number of group members. the Potral saves your annotation automatically. Make sure that you register to the Portal with the same email address that you used to register for this competition. You can see how you labeled the dataset by using the "Exort" function of the Portal. We will count all annotations until February 19, 2023.
 
 patch-1
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
