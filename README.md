@@ -11,12 +11,16 @@ The Datathon and Hackathon will organize meetings and presentations. The materia
 
 Please find more information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
 
-DATATHON PART OF THE COMPETION (PART I, JANUARY 23 to February 19)
+### DATATHON PART OF THE COMPETION (PART I, JANUARY 23 to February 19)
+
 Please use our Annotation Portal at https://workshop.annotationportal.com/
+
 We will count the number of tweets that your group has annotated correctly (according to expert annotators who labeled the same samples previously) per number of group members. the Potral saves your annotation automatically. Make sure that you register to the Portal with the same email address that you used to register for this competition. You can see how you labeled the dataset by using the "Exort" function of the Portal. We will count all annotations until February 19, 2023.
 
-HACKATHON PART OF THE COMPETION (PART II, JANUARY 30 to February 19)
-more information and the labeled dataset will be provided at the workshop on January 29
+### HACKATHON PART OF THE COMPETION (PART II, JANUARY 30 to February 19)
+
+More information and the labeled dataset will be provided at the workshop on January 29
+
 patch-1
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
