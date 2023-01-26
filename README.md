@@ -11,17 +11,17 @@ The Datathon and Hackathon will organize meetings and presentations. The materia
 
 Please find more information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
 
-### DATATHON PART OF THE COMPETITION (PART I, January 23 to February 19, 2023)
+## DATATHON PART OF THE COMPETITION (PART I, January 23 to February 19, 2023)
 
 Please use our Annotation Portal at https://workshop.annotationportal.com/
 
 We will count the number of tweets that your group has annotated correctly (according to expert annotators who labeled the same samples previously) per number of group members. The Portal saves your annotation automatically. Make sure that you register to the Portal with the same email address that you used to register for this competition. You can see how you labeled the dataset by using the "Export" button of the Portal. We will count all annotations until February 19, 2023. You can use any or all of the different annotation types that you see on the Portal, according to your competencies and preferences. In addition to increasing your points for the Datathon part, the annotation process will also help you to familiarize yourself with the content. The labeled datasets that you will receive for the Hackathon part of the competition come from the same samples.
 
-### HACKATHON PART OF THE COMPETITION (PART II, January 30 to February 19, 2023)
+## HACKATHON PART OF THE COMPETITION (PART II, January 30 to February 19, 2023)
 
 More information and the labeled dataset will be provided at the workshop on January 29
 
-#### Machine Learning Models
+### Machine Learning Models
 
 Teams will receive training and evaluation data.
 The data includes two labeled datasets of tweets
@@ -44,19 +44,13 @@ The project management team will perform independent evaluations of performance 
 The performance measure for the classifiers will be measured as F1 scores.
 
 
-#### Data Annotation Evaluation
+### Data Annotation Evaluation
 Will be provided after a non-disclosure agreement has been signed.
 
 
 
-patch-1
+### Previous material
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
-
-## Supporting Material (to be updated)
-
-Here are some links to tutorials that might be useful for the hackathon part of the competition.
-
-Check out the file named "NLP-Tools and Guides.md" you will find the guides and tutorials. 
 
 [PPT from January 15, 2023, on psychological and historical reasons for racism and antisemitism](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Psychological%20and%20Historical%20Reasons%20for%20Racism%20and%20Antisemitism.pptx)
