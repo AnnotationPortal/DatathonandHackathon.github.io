@@ -46,7 +46,7 @@ Will be provided after a non-disclosure agreement has been signed.
 
 
 
-### Previous material
+## Previous material
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
 
