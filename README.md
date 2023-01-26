@@ -21,9 +21,32 @@ We will count the number of tweets that your group has annotated correctly (acco
 
 More information and the labeled dataset will be provided at the workshop on January 29
 
-The data consists of
-- dataset1: Messages with the keywords Asians, Blacks, Jews, Latinos, or Muslims classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 75% of annotators’ agreement)
-- dataset2: Messages with the keywords “Jews, Israel, Kikes, or Zionazi*” classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 100% of two annotators’ agreement)
+#### Machine Learning Models
+
+Teams will receive training and evaluation data.
+The data includes two labeled datasets of tweets
+-	Messages with the keywords Asians, Blacks, Jews, Latinos, or Muslims classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 75% of annotators’ agreement)
+-	Messages with the keywords “Jews, Israel, Kikes, or Zionazi*” classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 100% of two annotators’ agreement)
+
+Teams will conduct independent evaluations with the objective of characterizing the quality, functionality, and performance of the solution to classify tweets and social media messages along two binary variables for the two datasets (separately and together).
+
+-	Bias
+-	Calling Out
+-	Both
+
+Teams provide deliverables as:
+
+-	Software packages with instructions on how to run them (Read Me files)
+-	Software has to be runnable on any Linux or Windows system
+
+The project management team will perform independent evaluations of performance on held-out data, not previously seen by teams.
+
+The performance measure for the classifiers will be measured as F1 scores.
+
+
+#### Data Annotation Evaluation
+Will be provided after a non-disclosure agreement has been signed.
+
 
 
 patch-1
