@@ -21,6 +21,11 @@ We will count the number of tweets that your group has annotated correctly (acco
 
 More information and the labeled dataset will be provided at the workshop on January 29
 
+The data consists of
+- dataset1: Messages with the keywords Asians, Blacks, Jews, Latinos, or Muslims classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 75% of annotators’ agreement)
+- dataset2: Messages with the keywords “Jews, Israel, Kikes, or Zionazi*” classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 100% of two annotators’ agreement)
+
+
 patch-1
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
