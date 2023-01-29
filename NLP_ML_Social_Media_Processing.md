@@ -18,9 +18,9 @@ This tutorial in preparation for the Hackathon will introduce you to:
 
 Material:
 
-- [Corpus formats and evaluation]()
-- [sample data]()
-- [Jupyter notebooks]()
+- [Corpus formats and evaluation](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Corpus_Format_Selection.pdf)
+- [sample data](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Samples)
+- [Jupyter notebooks](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Code)
 
 
 
