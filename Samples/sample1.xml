@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEXT SYSTEM "sample1.dtd">
+<TEXT>
+    <P>
+        <S id="1">
+            <NP>
+                <ART>the</ART>
+                <N>teacher</N>
+            </NP>
+            <VP>
+                <V>met</V>
+                <NP>
+                    <N>Mary</N>
+                </NP>
+            </VP>
+            <SE>.</SE>
+            <TRACE></TRACE>
+        </S>
+        <S id="2">
+            <NP>
+                <N>John</N>
+            </NP>
+            <VP>
+                <V>sleeps</V>
+            </VP>
+            <SE>.</SE>
+        </S>
+    </P>
+</TEXT>
