@@ -52,4 +52,4 @@ The material from the 2020 Hackathon and Datathon on Antisemitism in Social Medi
 
 [PPT from January 15, 2023, on psychological and historical reasons for racism and antisemitism](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Psychological%20and%20Historical%20Reasons%20for%20Racism%20and%20Antisemitism.pptx)
 
-[PPT by Damir Cavar, January 29, 2023, Corpus Standards and Evaluation](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Corpus_Format_Selection.pdf)
+[PPT by Damir Cavar, January 29, 2023, Corpus Standards and Evaluation](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Corpus_Format_Selection.pdf) and [Video](https://iu.mediaspace.kaltura.com/media/t/1_5sfcj3ix)
