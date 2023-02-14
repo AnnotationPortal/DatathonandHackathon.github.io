@@ -25,7 +25,7 @@ The data includes two labeled datasets of tweets
 -	Messages with the keywords Asians, Blacks, Jews, Latinos, or Muslims classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 75% of annotators’ agreement)
 -	Messages with the keywords “Jews, Israel, Kikes, or Zionazi*” classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 100% of two annotators’ agreement)
 
-Teams will conduct independent evaluations with the objective of characterizing the quality, functionality, and performance of the solution to classify tweets and social media messages along two binary variables (bias and calling out) for the two datasets, ideally one solution separately for each of the two datatset + one solution merging the two datatsets.
+eams will conduct independent evaluations with the objective of characterizing the quality, functionality, and performance of the solution to classify tweets and social media messages along two binary variables (bias and calling out) for the two datasets, ideally one solution separately for each of the two datasets + one solution merging the two datasets.
 
 Teams provide deliverables as:
 
