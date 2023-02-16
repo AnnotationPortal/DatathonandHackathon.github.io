@@ -36,7 +36,7 @@ The project management team will perform independent evaluations of performance 
 
 The performance measure for the classifiers will be measured as F1 scores.
 
-You can share the files with us in any way you want. The easiest for you is probably uplodaing it to any cloud storage and share the link with us.
+You can share the files with us in any way you want. The easiest for you is probably uploading it to any cloud storage and sharing the link with us.
 
 
 ### Data Annotation Evaluation
