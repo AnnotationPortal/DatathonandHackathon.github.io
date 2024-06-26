@@ -1,6 +1,30 @@
-# Datathon and Hackathon 2023 Competition on Hate Speech
+# Datathon and Machine Learning Competition on Antisemitism
 
-The Datathon and Hackathon will organize meetings and presentations. Please find general information here, https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html
+The Datathon and Machine Learning Competition will take place in July 2024. General information can be found here: 
+https://isca.indiana.edu/publication-research/social-media-project/datathon-2024/index.html
+
+## DATATHON PART OF THE COMPETITION (PART I, July 21 to August 11, 2024)
+
+Please use our Annotation Portal at https://annotationportal.com/. The functionality of the portal will be explained at the workshop on July 21. You do not need to register in advance.
+
+We count the number of tweets that your group has correctly annotated (according to expert annotators who have previously annotated the same samples) per number of group members. The portal will automatically save your annotations. IMPORTANT: Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal. We will count all annotations until August 28, 2024. In addition to increasing your points for the Datathon portion, the annotation process will help you familiarize yourself with the content. 
+
+## HACKATHON PART OF THE COMPETITION (PART II, July 28 to August 11, 2024)
+
+More information and the labeled dataset will be provided at the workshop on July 28.
+
+### Machine Learning Models
+
+You will receive a labeled dataset. It contains messages from the social media platform X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*" classified as biased/non-biased (based on 100% agreement between two annotators).
+
+You provide the deliverables in the form of software packages with instructions on how to run them (read-me files). The software must run on any system (Unix or Windows).
+
+The evaluation comittee will perform independent evaluations of performance on withheld data, not previously seen by the teams.
+
+The performance measure for the classifiers will be measured as F1 scores.
+
+You can share the files with us in any way you want. The easiest for you is probably uploading it to any cloud storage and sharing the link with us.
+
 
 ## Links and Related Content
 
@@ -8,45 +32,11 @@ The Datathon and Hackathon will organize meetings and presentations. Please find
 - [General NLP-Tools, Guides, and Tutorials for all levels](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/c8cc15cf6231e0e994162514d60e4737c34f0cc9/NLP-Tools%20and%20Guides.md)
 
 
-## DATATHON PART OF THE COMPETITION (PART I, January 23 to February 19, 2023)
-
-Please use our Annotation Portal at https://workshop.annotationportal.com/
-
-We will count the number of tweets that your group has annotated correctly (according to expert annotators who labeled the same samples previously) per number of group members. The Portal saves your annotation automatically. Make sure that you register to the Portal with the same email address that you used to register for this competition. You can see how you labeled the dataset by using the "Export" button of the Portal. We will count all annotations until February 19, 2023. You can use any or all of the different annotation types that you see on the Portal, according to your competencies and preferences. In addition to increasing your points for the Datathon part, the annotation process will also help you to familiarize yourself with the content. The labeled datasets that you will receive for the Hackathon part of the competition come from the same samples.
-
-## HACKATHON PART OF THE COMPETITION (PART II, January 30 to February 19, 2023)
-
-More information and the labeled dataset will be provided at the workshop on January 29
-
-### Machine Learning Models
-
-Teams will receive training and evaluation data.
-The data includes two labeled datasets of tweets
--	Messages with the keywords Asians, Blacks, Jews, Latinos, or Muslims classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 75% of annotators’ agreement)
--	Messages with the keywords “Jews, Israel, Kikes, or Zionazi*” classified as biased/non-biased and Calling Out biased/ not Calling Out biased (based on 100% of two annotators’ agreement)
-
-Teams will conduct independent evaluations with the objective of characterizing the quality, functionality, and performance of the solution to classify tweets and social media messages along two binary variables (bias and calling out) for the two datasets, ideally one solution separately for each of the two datasets + one solution merging the two datasets.
-
-Teams provide deliverables as:
-
--	Software packages with instructions on how to run them (Read Me files)
--	Software has to be runnable on any Linux or Windows system
-
-The project management team will perform independent evaluations of performance on held-out data, not previously seen by teams.
-
-The performance measure for the classifiers will be measured as F1 scores.
-
-You can share the files with us in any way you want. The easiest for you is probably uploading it to any cloud storage and sharing the link with us.
-
-
-### Data Annotation Evaluation
-Will be provided after a non-disclosure agreement has been signed.
-
-
-
 ## Previous material
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
+Information on the 2023 Datathon and Machine Learning Competition can be found here:
+[https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html]
 
 [PPT from January 15, 2023, on psychological and historical reasons for racism and antisemitism](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Psychological%20and%20Historical%20Reasons%20for%20Racism%20and%20Antisemitism.pptx)
 
