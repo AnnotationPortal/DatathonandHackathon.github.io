@@ -5,7 +5,7 @@ https://isca.indiana.edu/publication-research/social-media-project/datathon-2024
 
 ## DATATHON PART OF THE COMPETITION (PART I, July 21 to August 11, 2024)
 
-Please use our Annotation Portal at https://annotationportal.com/. The functionality of the portal will be explained at the workshop on July 21. You do not need to register in advance.
+Please use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the workshop on July 21. You do not need to register in advance.
 
 We count the number of tweets that your group has correctly annotated (according to expert annotators who have previously annotated the same samples) per number of group members. The portal will automatically save your annotations. IMPORTANT: Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal. We will count all annotations until August 28, 2024. In addition to increasing your points for the Datathon portion, the annotation process will help you familiarize yourself with the content. 
 
