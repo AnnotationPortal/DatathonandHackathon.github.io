@@ -38,3 +38,6 @@ Some of the notebooks require that you have a file `secret.py` in the same folde
 	- [BERT_vectors.ipynb](BERT_vectors.ipynb) (BERT embeddings for words or text, for similarity computation)
 	- [anthropic_vectors.ipynb](anthropic_vectors.ipynb) (Anthropic / VoyageAI type embeddings)
 	- [openai_vectors.ipynb](openai_vectors.ipynb) (OpenAI GPT-type embeddings)
+
+
+
