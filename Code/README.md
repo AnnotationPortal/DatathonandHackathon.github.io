@@ -17,7 +17,7 @@ Some of the notebooks require that you have a file `secret.py` in the same folde
 
 ## Agenda
 
-- Texts, words, frequencies, probabilities (Natural Language Toolkit - NLTK)
+- Texts, words, frequencies, probabilities (Natural Language Toolkit - [NLTK](https://nltk.org/))
 	- [Python NLTK - Texts and Frequencies.ipynb](Python+NLTK+-+Texts+and+Frequencies.ipynb)
 - Natural Language Processing Pipelines: spaCy and Stanza (and NLTK)
 	- [spaCy Tutorial.ipynb](spaCy+Tutorial.ipynb)
