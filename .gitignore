@@ -4,8 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pt
+*~
 jupyterhub.sqlite
 jupyterhub_cookie_secret
+secret.py
 
 # C extensions
 *.so

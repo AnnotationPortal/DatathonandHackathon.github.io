@@ -1,2 +1,11 @@
+scikit-learn
+pip
+setuptools
+wheel
 nltk
 spacy
+stanza
+voyageai
+openai
+transformers
+anthropic

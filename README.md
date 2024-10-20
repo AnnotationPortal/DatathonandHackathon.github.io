@@ -33,6 +33,7 @@ You can share the files with us in any way you want. The easiest for you is prob
 
 
 ## Previous material
+
 The material from the 2020 Hackathon and Datathon on Antisemitism in Social Media can be found here: [https://github.com/dcavar/AntisemitismDatathon2020](https://github.com/dcavar/AntisemitismDatathon2020)
 
 Information on the 2023 Datathon and Machine Learning Competition can be found here:
