@@ -66,9 +66,9 @@ Go to: [annotate.osome.iu.edu](https://annotate.osome.iu.edu)
 
 -  `your_data.csv` (in the format shown above)
 -  A short report with:
-- Search strategy and keywords used
-- Why you selected these accounts
-- Your chosen timeframe and rationale
-- Number of posts per account
+  - Search strategy and keywords used
+  - Why you selected these accounts
+  - Your chosen timeframe and rationale
+  - Number of posts per account
 
 ---
