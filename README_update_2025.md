@@ -6,12 +6,24 @@ https://isca.indiana.edu/publication-research/social-media-project/datathon-2025
 
 Full challenge description: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Datathon_Challenge.pdf)
 
-## CHALLENGE #1: Annotation with the Portal (July 13 to July 20, 2025)
+## CHALLENGE #1: Modeling and Evaluation (July 13 to July 20, 2025)
 
-Please use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the first workshop. You do not need to register in advance. Once you register, please make sure to remember your password.
+Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
 
-We count the number of tweets that your group has correctly annotated (according to expert annotators who have previously annotated the same samples) per number of group members. The portal will automatically save your annotations.  
-**IMPORTANT:** Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal. We will count all annotations until **August 5, 2025**.
+Participants can select from the following curated datasets:
+- [Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics](https://zenodo.org/records/14448399)
+- [Antisemitism on X: Trends in Counter-Speech and Israel-Related Discourse Before and After October 7](https://zenodo.org/records/15025646)
+- [A German Language Labeled Dataset of Tweets](https://zenodo.org/records/10053509)
+
+Tasks:
+1. Download one of the datasets listed above.
+2. Use tools such as scikit-learn, spaCy, or Hugging Face Transformers to train a model.
+3. Evaluate your model:
+   - Report precision, recall, F1-score, and display a confusion matrix.
+   - List the hyperparameters used for training.
+   - Conduct error analysis and provide qualitative examples, especially false positives.
+
+Your code should be submitted in a format that runs on both Unix and Windows systems with clear readme instructions.
 
 
 ## CHALLENGE #2: Modeling with Bright Data (July 20 to July 27, 2025)
@@ -29,9 +41,13 @@ Each dataset consists of user-generated content annotated for antisemitic hate s
 
 ### Machine Learning Models
 
-You will receive a labeled dataset. It contains messages from the social media platform X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*" classified as biased/non-biased (based on 100% agreement between two annotators).
+The labeled datasets contains messages from the social media platform X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*" classified as biased/non-biased (based on 100% agreement between two annotators).
 
 You provide the deliverables in the form of software packages with instructions on how to run them (read-me files). The software must run on any system (Unix or Windows).
+
+Participants are invited to use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the first workshop. You do not need to register in advance. Once you register, please make sure to remember your password.
+
+**IMPORTANT:** Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal. We will count all annotations until **August 5, 2025**.
 
 The evaluation committee will perform independent evaluations of performance on withheld data, not previously seen by the teams.  
 **The performance measure for the classifiers will be F1 scores. Bonus points are available for teams using additional evaluation metrics such as Cohen's Kappa or Krippendorff's Alpha or use the fine-tined model on unseen data.**
