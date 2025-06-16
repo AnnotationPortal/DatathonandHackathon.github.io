@@ -4,7 +4,7 @@
 The Datathon and Machine Learning Competition will take place in **July 2025**. General information can be found here:  
 https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html
 
-Full challenge description: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/2025-challenge)
+Full challenge description: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Datathon_Challenge.pdf)
 
 ## CHALLENGE #1: Annotation with the Portal (July 13 to July 20, 2025)
 
