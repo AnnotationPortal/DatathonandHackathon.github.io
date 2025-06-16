@@ -1,7 +1,8 @@
 # Datathon and Machine Learning Competition on Antisemitism
 
 The Datathon and Machine Learning Competition will take place in Fall 2024. General information can be found here: 
-https://isca.indiana.edu/publication-research/social-media-project/datathon-2024/index.html
+#Old https://isca.indiana.edu/publication-research/social-media-project/datathon-2024/index.html 
+https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html
 
 ## DATATHON PART OF THE COMPETITION (PART I, October 13 to November 10, 2024)
 
