@@ -62,7 +62,7 @@ The evaluation committee carries out an independent assessment of the teams' per
    - Reporting how the data was scraped and which guidelines were used to classify and annotate the data in a standardized way
 
 **Deliverables for Challenge #2 include:**
-   - Evaluation Metrcis (the performance measure for the classifiers will be F1 scores)
+   - Evaluation Metrics (the performance measure for the classifiers will be F1 scores)
 
 ** You can earn bonus points by**
    - Provide additional evaluation metrics such as Cohen's Kappa or Krippendorff's Alpha for Inter-Annotator-Agreement (IAA) (Challenge #1)
