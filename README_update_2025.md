@@ -51,7 +51,7 @@ Your code should be submitted in a format that runs on both Unix and Windows sys
 
 
 
-### Deliverables
+## Deliverables
 
 You provide the deliverables in the form of software packages with instructions on how to run them (read-me files). The software must run on any system (Unix or Windows).
 
@@ -73,7 +73,7 @@ You can share the files with us in any way you want. The easiest for you is prob
 All deliverables, including annotations and evaluations, must be summarized and completed by **August 5, 2025**.
 
 
-### Prizes
+## Prizes
 
 - 1st Place Team: $1,000 gift certificate  
 - 2nd Place Team: $600 gift certificate  
