@@ -64,7 +64,7 @@ The evaluation committee carries out an independent assessment of the teams' per
 **Deliverables for Challenge #2 include:**
    - Evaluation Metrics (the performance measure for the classifiers will be F1 scores)
 
-** You can earn bonus points by**
+**You can earn bonus points by**
    - Provide additional evaluation metrics such as Cohen's Kappa or Krippendorff's Alpha for Inter-Annotator-Agreement (IAA) (Challenge #1)
    - Use the fine-tined model on unseen data (Challenge #2)
 
