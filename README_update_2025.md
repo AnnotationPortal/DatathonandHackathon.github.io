@@ -6,7 +6,7 @@ https://isca.indiana.edu/publication-research/social-media-project/datathon-2025
 
 Full challenge description: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Datathon_Challenge.pdf)
 
-## CHALLENGE #1: Building a Dataset with Bright Data (July 13 to July 20, 2025)
+## #1 CHALLENGE: Building a Dataset with Bright Data (July 13 to July 20, 2025)
 
 More information will be provided at the workshop on July 20.
 
@@ -27,7 +27,7 @@ Participants are invited to use our Annotation Portal at https://datathon.annota
 
 
 
-## CHALLENGE #2: Modeling and Evaluation (July 20 to July 27, 2025)
+## #2 CHALLENGE: Modeling and Evaluation (July 20 to July 27, 2025)
 
 Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
 
