@@ -58,6 +58,7 @@ Save your result as a `.csv` file using **UTF-8 encoding**.
 Go to: [annotate.osome.iu.edu](https://annotate.osome.iu.edu)  
 - Upload your `.csv` file
 - Start annotating based on the project instructions
+- Instructions on how to manage your annotation project will be provided during the first workshop on July 13
 
 ---
 
