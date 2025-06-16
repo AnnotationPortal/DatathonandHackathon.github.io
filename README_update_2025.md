@@ -15,8 +15,12 @@ Participants can select from the following curated datasets:
 - [Antisemitism on X: Trends in Counter-Speech and Israel-Related Discourse Before and After October 7](https://zenodo.org/records/15025646)
 - [A German Language Labeled Dataset of Tweets](https://zenodo.org/records/10053509)
 
+Each dataset consists of user-generated content annotated for antisemitic hate speech and conspiracy narratives. Annotations were created using an expert-reviewed schema and include agreement between multiple annotators.
+The labeled datasets contain messages from the social media platform X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*" classified as biased/non-biased (based on 100% agreement between two annotators).
+
+
 Tasks:
-1. Download one of the datasets listed above.
+1. Download the (Goldstandard/GroundTruth) datasets listed above.
 2. Use tools such as scikit-learn, spaCy, or Hugging Face Transformers to train a model.
 3. Evaluate your model:
    - Report precision, recall, F1-score, and display a confusion matrix.
@@ -26,28 +30,32 @@ Tasks:
 Your code should be submitted in a format that runs on both Unix and Windows systems with clear readme instructions.
 
 
-## CHALLENGE #2: Modeling with Bright Data (July 20 to July 27, 2025)
+## CHALLENGE #2: Building a Dataset with Bright Data (July 20 to July 27, 2025)
 
 More information will be provided at the workshop on July 20.
 
-### Labeled Datasets
+Goal: Create a small but meaningful labeled dataset for hate speech detection.
 
-Participants can select from the following curated datasets:
-- [Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics](https://zenodo.org/records/14448399)
-- [Antisemitism on X: Trends in Counter-Speech and Israel-Related Discourse Before and After October 7](https://zenodo.org/records/15025646)
-- [A German Language Labeled Dataset of Tweets](https://zenodo.org/records/10053509)
+Tasks:
+1. Use the [Bright Data](https://brightdata.com/products/web-scraper/functions) interface to scrape at least 100 relevant user-generated posts.
+2. Define your scraping focus (hashtags, user groups, topics) and document your rationale and potential biases.
+3. Annotate your data using:
+   - A definition of antisemitism and hate speech
+   - A standardized annotation form (ours or adapted) [see paper](https://arxiv.org/abs/1910.01214)
+   - The [Annotation Portal](https://annotate.osome.iu.edu/) or another tool (e.g., Label Studio, INCEpTION)
+4. Prepare a dataset report including label definitions, distributions, and annotation rationale.
 
-Each dataset consists of user-generated content annotated for antisemitic hate speech and conspiracy narratives. Annotations were created using an expert-reviewed schema and include agreement between multiple annotators.
-
-### Machine Learning Models
-
-The labeled datasets contains messages from the social media platform X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*" classified as biased/non-biased (based on 100% agreement between two annotators).
-
-You provide the deliverables in the form of software packages with instructions on how to run them (read-me files). The software must run on any system (Unix or Windows).
+Annotations will be counted until **August 5, 2025** and contribute to your overall Datathon score.
 
 Participants are invited to use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the first workshop. You do not need to register in advance. Once you register, please make sure to remember your password.
 
 **IMPORTANT:** Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal. We will count all annotations until **August 5, 2025**.
+
+
+### Deliverables
+
+You provide the deliverables in the form of software packages with instructions on how to run them (read-me files). The software must run on any system (Unix or Windows).
+
 
 The evaluation committee will perform independent evaluations of performance on withheld data, not previously seen by the teams.  
 **The performance measure for the classifiers will be F1 scores. Bonus points are available for teams using additional evaluation metrics such as Cohen's Kappa or Krippendorff's Alpha or use the fine-tined model on unseen data.**
@@ -66,10 +74,12 @@ You can share the files with us in any way you want. The easiest for you is prob
 
 Selected participants will receive a certificate recognizing their achievement and skills.
 
+
 ## Links and Related Content
 
 - [Tutorial and Material on Social Media Text pre-processing and classification](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/NLP_ML_Social_Media_Processing.md)
 - [General NLP-Tools, Guides, and Tutorials for all levels](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/c8cc15cf6231e0e994162514d60e4737c34f0cc9/NLP-Tools%20and%20Guides.md)
+
 
 ## Previous material
 
