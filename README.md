@@ -23,7 +23,7 @@ Tasks:
 
 Participants are invited to use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the first workshop. You do not need to register in advance. Once you register, please make sure to remember your password.
 
-**IMPORTANT:** Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal.
+**IMPORTANT:** Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Datathon" for "Annotation Type" when registering. You can upload & annotate your scraped in the class "Datathon_Upload". You can see how you have annotated the dataset by using the "Export" button in the portal.
 
 
 
