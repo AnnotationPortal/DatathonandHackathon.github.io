@@ -45,8 +45,6 @@ Tasks:
    - The [Annotation Portal](https://annotate.osome.iu.edu/) or another tool (e.g., Label Studio, INCEpTION)
 4. Prepare a dataset report including label definitions, distributions, and annotation rationale.
 
-Annotations will be counted until **August 5, 2025** and contribute to your overall Datathon score.
-
 Participants are invited to use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the first workshop. You do not need to register in advance. Once you register, please make sure to remember your password.
 
 **IMPORTANT:** Please make sure you register to the portal with the same email address you used to register for this challenge. Please use "Antisemitism" for "Annotation Type" when registering. You can annotate all the samples provided in the class "Antisemitism". You can see how you have annotated the dataset by using the "Export" button in the portal. We will count all annotations until **August 5, 2025**.
@@ -56,11 +54,13 @@ Participants are invited to use our Annotation Portal at https://datathon.annota
 
 You provide the deliverables in the form of software packages with instructions on how to run them (read-me files). The software must run on any system (Unix or Windows).
 
-
 The evaluation committee will perform independent evaluations of performance on withheld data, not previously seen by the teams.  
 **The performance measure for the classifiers will be F1 scores. Bonus points are available for teams using additional evaluation metrics such as Cohen's Kappa or Krippendorff's Alpha or use the fine-tined model on unseen data.**
 
 You can share the files with us in any way you want. The easiest for you is probably uploading it to any cloud storage and sharing the link with us.
+
+All deliverables, including annotations and evaluations, must be summarized and completed by **August 5, 2025**.
+
 
 ### Prizes
 
