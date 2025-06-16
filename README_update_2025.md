@@ -16,7 +16,7 @@ We count the number of tweets that your group has correctly annotated (according
 
 ## CHALLENGE #2: Modeling with Bright Data (July 20 to July 27, 2025)
 
-More information and the labeled datasets will be provided at the workshop on July 20.
+More information will be provided at the workshop on July 20.
 
 ### Labeled Datasets
 
