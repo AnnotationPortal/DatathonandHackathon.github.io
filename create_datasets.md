@@ -17,7 +17,7 @@ This task guides you through collecting Instagram post data using Bright Data an
 
 ### 2. Scrape Data via Bright Data
 
-Use Bright Data’s tool:
+Use Bright Data’s automated webscraping tools:
 
 **Navigate to:**
 > Web Scrapes → Instagram – Posts – Discover by URL
