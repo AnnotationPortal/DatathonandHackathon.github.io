@@ -17,7 +17,7 @@ Tasks:
 2. Define your scraping focus (hashtags, user groups, topics) and document your rationale and potential biases.
 3. Annotate your data using:
    - A definition of antisemitism and hate speech
-   - A standardized annotation form (ours or adapted) [see paper](https://arxiv.org/abs/1910.01214)
+   - A standardized annotation form ([ours](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/annotation_scheme.md) or adapted) [see paper](https://arxiv.org/abs/1910.01214)
    - The [Annotation Portal](https://annotate.osome.iu.edu/) or another tool (e.g., Label Studio, INCEpTION)
 4. Prepare a [dataset](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/create_datasets.md) and a dataset report including label definitions, distributions, and annotation rationale.
 
