@@ -65,10 +65,10 @@ Go to: [annotate.osome.iu.edu](https://annotate.osome.iu.edu)
 ## What to Submit
 
 -  `your_data.csv` (in the format shown above)
--  A short report with:
-  -- Search strategy and keywords used
-  -- Why you selected these accounts
-  -- Your chosen timeframe and rationale
-  -- Number of posts per account
+A short report with:
+- Search strategy and keywords used
+- Why you selected these accounts
+- Your chosen timeframe and rationale
+- Number of posts per account
 
 ---
