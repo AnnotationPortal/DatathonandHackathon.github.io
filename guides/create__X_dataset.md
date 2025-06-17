@@ -267,6 +267,7 @@ You may optionally submit a separate file that includes:
 ### 6. Working with Data Output in Google Colab
 
 To parse, filter, and prepare your tweet dataset using the provided **Python** 🐍 script, we recommend using **Google Colab**. 
+
 *We recommend using **Colab** to run the parsing script in [Section 3](#3-format-for-bright-data-scraping) without installing Python on your personal computer.
 
 #### Steps:
