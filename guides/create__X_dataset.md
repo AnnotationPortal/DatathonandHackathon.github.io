@@ -260,7 +260,7 @@ You may optionally submit a separate file that includes:
 
 ---
 
-### Reminder
+### Important Reminder
 
 - Ensure that your **Tweet IDs are stored as strings**, not numbers, to avoid truncation or formatting issues in Excel or Google Sheets. When in doubt, open the file in a plain text editor or use `.csv` in UTF-8.
 
