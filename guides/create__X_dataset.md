@@ -281,8 +281,8 @@ To parse, filter, and prepare your tweet dataset using the provided **Python** ð
    from google.colab import files
    uploaded = files.upload()
    ```
-5. Copy & Paste the code snipped into the Notebook
-6. Share the script with your team if you want to collaborate
+5. Copy & Paste the code snipped *from Section 4* into the Notebook and run the code
+7. Share the script with your team if you want to collaborate
    
 ---
 
