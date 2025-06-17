@@ -57,7 +57,7 @@ If your goal is to collect **100 tweets across one month**, we recommend dividin
 - Collect **100 tweets** total for your dataset by using the **Advanced Search** feature to select relevant accounts
 - Each tweet must contain the **exact keyword or hashtag** you chose
 - Use **two-day intervals** within each week to find more content if needed
-- Prioritize tweets with **200+ views**, but it’s acceptable to include some below this threshold when necessary
+- Prioritize tweets from Accounts with **200+ views**, but it’s acceptable to include some below this threshold when necessary
   
 ---
 
@@ -84,6 +84,8 @@ Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to 
 > https://x.com/username1,100
 > https://x.com/someuser2,100
 > ```
+
+*To reach the desired frequency of the dataset including the keyword or hashtag, you may need to scrape multiple hundreds of tweets. Keep in mind that this process is iterative and time-consuming and may require you to expand your list of accounts further.*
 
 ---
 
