@@ -116,8 +116,15 @@ Each tweet object inside `posts` includes:
 - `hashtags`: extracted hashtags (if available)
 
 ---
-
 #### Parsing Script: Extract Tweets and Format for Annotation
+
+We recommend using **Python** 🐍 for this task.  
+Please see the code snippet below for parsing the output file.
+
+This script processes the `.csv` file you receive from **Bright Data**, extracts:
+  1. all relevant tweet-level information,
+  2. filters posts by your chosen keywords or hashtags,
+  3. and prepares the final dataset for upload to our annotation portal.
 
 Use the script below to extract Tweet ID and description for each tweet, and save as a `.csv` for further filtering and annotation.
 
@@ -171,7 +178,7 @@ df_out.to_csv("parsed_tweets_filtered.csv", index=False, encoding="utf-8")
 
 ```
 ---
-#### The Script will generate the following output
+#### The Script will generate the following `.csv` output
 | text_id | Text                                                        | tweet_id             | Username     | date_posted            |
 |---------|-------------------------------------------------------------|----------------------|--------------|------------------------|
 | 1       | Tweet text including specified keyword                      | 1545842080431321088  | username     | 2022-10-28T03:49:11Z   |
