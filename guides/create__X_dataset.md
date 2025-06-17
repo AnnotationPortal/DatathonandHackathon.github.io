@@ -11,7 +11,8 @@ This readme guides you through collecting X/Twitter tweet data using Bright Data
 3. [Format for Bright Data Scraping](#3-format-for-bright-data-scraping)  
 4. [Clean and Parse Your Scraped Tweet Data](#4-clean-and-parse-your-scraped-tweet-data)  
 5. [What to Submit](#5-what-to-submit)
-6. [Further Notes](#6-further-notes)
+6. [Working with Colab](#6-Working-with-Data-Output-in-Google-Colab)
+7. [Further Notes](#6-further-notes)
 
 
 ---
@@ -263,10 +264,27 @@ You may optionally submit a separate file that includes:
 
 ---
 
-## 6. Further Notes
+### 6. Working with Data Output in Google Colab
+
+To parse, filter, and prepare your tweet dataset using the provided **Python** 🐍 script, we recommend using **Google Colab** — a free, browser-based coding environment.
+
+#### Steps:
+1. Go to [https://colab.research.google.com](https://colab.research.google.com)
+2. Sign in using a **Google account** (this is required to upload files)
+3. Click **"New Notebook"**
+4. Upload your Bright Data `.csv` file:
+   ```python
+   from google.colab import files
+   uploaded = files.upload()
+   ```
+   
+---
+
+## 7. Further Notes
 
 - You may work in pairs or small teams
 - Be consistent: only collect tweets containing the **exact keyword or hashtag**
 - Avoid replies or retweets unless directly relevant
 
 ---
+
