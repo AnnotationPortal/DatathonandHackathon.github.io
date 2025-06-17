@@ -36,7 +36,7 @@ We recommend starting with the **Advanced Search** feature on [X.com](https://x.
 - Adjust the filters to a specific time range (see below)
 - Open the user profile in new tabs and copy the full **accound URL**
 
-> Example tweet URL:  
+> Example Account URL:  
 > `https://x.com/elonmusk/`
 
 ---
