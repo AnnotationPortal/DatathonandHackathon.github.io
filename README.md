@@ -19,7 +19,7 @@ Tasks:
    - A definition of antisemitism and hate speech
    - A standardized annotation form ([ours](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/annotation_scheme.md) or adapted) [see paper](https://arxiv.org/abs/1910.01214)
    - The [Annotation Portal](https://annotate.osome.iu.edu/) or another tool (e.g., Label Studio, INCEpTION)
-4. Prepare either an [Instagram dataset](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/create_insta_dataset.md) or a [X/Twitter dataset](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/create__X_dataset.md), and include a dataset report with label definitions, distribution information, and annotation rationale.
+4. Prepare a [X/Twitter dataset](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/create__X_dataset.md), and include a dataset report with label definitions, distribution information, and annotation rationale.
 
 Participants are invited to use our Annotation Portal at https://datathon.annotationportal.com. The functionality of the portal will be explained at the first workshop. You do not need to register in advance. Once you register, please make sure to remember your password.
 
