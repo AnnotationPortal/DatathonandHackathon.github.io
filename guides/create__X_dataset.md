@@ -244,7 +244,7 @@ Each team should submit the following:
   - Notes on manual filtering or scraping inconsistencies
   - Total number of tweets after filtering
   - The amount of antisemitic or biased content within the dataset
-  - The annotation scheme that was used a standardized annotation guideline, e.g., based on the [IHRA-WDA](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/annotation_scheme.md)
+  - The annotation scheme that was used as a standardized annotation guideline, e.g., based on the [IHRA-WDA](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/annotation_scheme.md)
 
 
 ##### C. (Optional) Full Extracted Dataset
