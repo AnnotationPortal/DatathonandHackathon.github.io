@@ -54,7 +54,7 @@ If your goal is to collect **100 tweets across one month**, we recommend dividin
 | Week 4                   | September 22–29, 2024 |
 
 #### Guidelines:
-- Collect **100 tweets** total for your dataset
+- Collect **100 tweets** total for your dataset by using the **Advanced Search** feature to select relevant accounts.
 - Each tweet must contain the **exact keyword or hashtag** you chose
 - Use **two-day intervals** within each week to find more content if needed
 - Prioritize tweets with **200+ views**, but it’s acceptable to include some below this threshold when necessary
