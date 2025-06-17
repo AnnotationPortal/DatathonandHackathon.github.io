@@ -136,7 +136,6 @@ Please see the code snippet below for parsing the output file.
 This script processes the `.csv` file you receive from **Bright Data**, extracts:
   1. all relevant tweet-level information,
   2. filters posts by your chosen keywords or hashtags,
-  3. and prepares the final dataset for upload to our annotation portal.
 
 Use the script below to extract Tweet ID and description for each tweet, and save as a `.csv` for further filtering and annotation.
 
@@ -219,6 +218,8 @@ Go to: [https://www.bram.us/](https://www.bram.us/2017/11/22/accessing-a-tweet-u
 Each team should submit the following:
 
 ##### A. Cleaned Annotation Dataset (.csv)
+
+*After preprossing --> Prepare the final dataset for upload to our annotation portal*
 
 - File must contain only tweets that include **one or more of your selected keywords or hashtags**
 - Format the file as follows:
