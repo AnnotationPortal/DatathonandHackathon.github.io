@@ -86,7 +86,7 @@ After scraping user profiles with Bright Data, your output will contain many met
 
 Your task is to extract individual tweets from this `posts` column and isolate the tweets that actually contain the keyword or hashtag you selected.
 
----
+
 
 #### Example Output Columns from Bright Data
 
@@ -115,7 +115,7 @@ Each tweet object inside `posts` includes:
 - `videos`: video info (if any)  
 - `hashtags`: extracted hashtags (if available)
 
----
+
 #### Parsing Script: Extract Tweets and Format for Annotation
 
 We recommend using **Python** 🐍 for this task.  
@@ -177,7 +177,7 @@ df_out = pd.DataFrame(parsed_rows)
 df_out.to_csv("parsed_tweets_filtered.csv", index=False, encoding="utf-8")
 
 ```
----
+
 #### The Script will generate the following `.csv` output
 | text_id | Text                                                        | tweet_id             | Username     | date_posted            |
 |---------|-------------------------------------------------------------|----------------------|--------------|------------------------|
@@ -189,22 +189,24 @@ df_out.to_csv("parsed_tweets_filtered.csv", index=False, encoding="utf-8")
 
 ---
 
-###  How to View a Tweet Using Only Its ID
+####  How to View a Tweet Using Only Its ID
 
 If you only have the `TweetID` (and not the full URL), you can still access the original tweet in your browser by using the following helper site:
 
 Go to: [https://www.bram.us/](https://www.bram.us/2017/11/22/accessing-a-tweet-using-only-its-id-and-without-the-twitter-api/)
 
-#### Instructions:
+##### Instructions:
 1. Copy any Tweet ID from your dataset (e.g., `1585811080431321088`)
 2. Paste it into the helper site linked above
-3. It will redirect you to the full tweet, e.g.:
+3. It will redirect you to the full tweet
 
-## What to Submit
+---
+
+### 5. What to Submit
 
 Each team should submit the following:
 
-### 1. Cleaned Annotation Dataset (.csv)
+##### A. Cleaned Annotation Dataset (.csv)
 
 - File must contain only tweets that include **one or more of your selected keywords or hashtags**
 - Format the file as follows:
@@ -219,9 +221,9 @@ Each team should submit the following:
 - Save file as: `your_final_annotation_input.csv` (specify this with your keyword)
 - This file is ready to be uploaded to our annotation portal at [annotate.osome.iu.edu](https://annotate.osome.iu.edu)
 
----
 
-### 2. Report (PDF or Markdown)
+
+##### B. Report (PDF or Markdown)
 - A brief report (1–2 pages) that includes:
   - The keyword(s) or hashtag(s) used
   - Your rationale for selecting them
@@ -229,9 +231,9 @@ Each team should submit the following:
   - Notes on manual filtering or scraping inconsistencies
   - Total number of tweets after filtering
 
----
 
-### 3. (Optional) Full Extracted Dataset
+
+##### C. (Optional) Full Extracted Dataset
 
 You may optionally submit a separate file that includes:
 - `tweet_id`, `text`, `date_posted`, `likes`, `reposts`, `views`, etc.
@@ -242,6 +244,7 @@ You may optionally submit a separate file that includes:
 ### Reminder
 
 - Ensure that your **Tweet IDs are stored as strings**, not numbers, to avoid truncation or formatting issues in Excel or Google Sheets. When in doubt, open the file in a plain text editor or use `.csv` in UTF-8.
+
 ---
 
 ## Notes
