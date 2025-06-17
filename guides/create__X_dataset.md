@@ -57,6 +57,7 @@ If your goal is to collect **100 tweets across one month**, we recommend dividin
 - Collect **100 tweets** total for your dataset by using the **Advanced Search** feature to select relevant accounts
 - Each tweet must contain the **exact keyword or hashtag** you chose
 - Use **two-day intervals** within each week to find more content if needed
+- Include the best possible variety of different Accounts
 - Prioritize tweets from Accounts with **200+ views**, but it’s acceptable to include some below this threshold when necessary
   
 ---
