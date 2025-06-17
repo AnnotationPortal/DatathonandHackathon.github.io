@@ -31,13 +31,18 @@ Participants are invited to use our Annotation Portal at https://datathon.annota
 
 Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
 
-Participants can select from the following curated datasets:
-- [Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics](https://zenodo.org/records/14448399)
-- [Antisemitism on X: Trends in Counter-Speech and Israel-Related Discourse Before and After October 7](https://zenodo.org/records/15025646)
-- [A German Language Labeled Dataset of Tweets](https://zenodo.org/records/10053509)
+Participants can select and combine the following curated datasets:
+- English data:
+   - [Antisemitism on Twitter: A Dataset for Machine Learning and Text Analytics](https://zenodo.org/records/14448399)
+   - [Antisemitism on X: Trends in Counter-Speech and Israel-Related Discourse Before and After October 7](https://zenodo.org/records/15025646)
+- German data:
+   - [A German Language Labeled Dataset of Tweets](https://zenodo.org/records/10053509)
 
 Each dataset consists of user-generated content annotated for antisemitic hate speech and conspiracy narratives. Annotations were created using an expert-reviewed schema and include agreement between multiple annotators.
-The labeled datasets contain messages from the social media platform X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*" classified as biased/non-biased (based on 100% agreement between two annotators).
+
+The labeled English-language datasets contain social media messages from X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*," which are classified as either biased or non-biased based on 100% agreement between two annotators.
+
+The labeled German-language dataset contains social media messages from X/Twitter with the keyword "Juden" (meaning "Jews"), which is classified as either biased or non-biased based on 100% agreement between two annotators.
 
 Tasks:
 1. Download the (Goldstandard/GroundTruth) datasets listed above.
