@@ -1,4 +1,4 @@
-# Task: XX/Twitter Data Collection and Annotation
+# Task: X/Twitter Data Collection and Annotation
 
 This task guides you through collecting X/Twitter tweet data using Bright Data and preparing it for upload to our annotation portal: [annotate.osome.iu.edu](https://annotate.osome.iu.edu).
 
