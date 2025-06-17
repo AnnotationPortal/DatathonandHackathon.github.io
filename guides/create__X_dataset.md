@@ -34,10 +34,10 @@ We recommend starting with the **Advanced Search** feature on [X.com](https://x.
 - **Search for one keyword only** (e.g., `Jews`, `#Zionists`, etc.)
 - Use the **“Top” tab** in X’s search results for high-engagement posts
 - Adjust the filters to a specific time range (see below)
-- Open tweets in new tabs and copy the full **tweet URL**
+- Open the user profile in new tabs and copy the full **accound URL**
 
 > Example tweet URL:  
-> `https://x.com/elonmusk/status/1234567890123456789`
+> `https://x.com/elonmusk/`
 
 ---
 
