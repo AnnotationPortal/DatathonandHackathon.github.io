@@ -250,7 +250,7 @@ Each team should submit the following:
 ##### C. (Optional) Full Extracted Dataset
 
 You may optionally submit a separate file that includes:
-- `tweet_id`, `text`, `date_posted`, `likes`, `reposts`, `views`, etc.
+- `tweet_id`, `username`, `text`, `date_posted`, `likes`, `reposts`, `views`, `biased`
 - For students interested in exploring engagement, virality, or post type
 
 ---
