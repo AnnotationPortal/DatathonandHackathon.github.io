@@ -11,6 +11,8 @@ This task guides you through collecting X/Twitter tweet data using Bright Data a
 3. [Format for Bright Data Scraping](#3-format-for-bright-data-scraping)  
 4. [Clean and Parse Your Scraped Tweet Data](#4-clean-and-parse-your-scraped-tweet-data)  
 5. [What to Submit](#5-what-to-submit)
+6. [Further Notes](#6-further-notes)
+
 
 ---
 
@@ -25,7 +27,7 @@ You will then submit the list of tweet URLs to **Bright Data** for structured sc
 ## Step-by-Step Instructions
 
 ## 1. Search for a Specific Keyword or Hashtag
-...
+
 
 We recommend starting with the **Advanced Search** feature on [X.com](https://x.com) and using **newly created accounts** to avoid personalized search bias.
 
@@ -39,7 +41,7 @@ We recommend starting with the **Advanced Search** feature on [X.com](https://x.
 
 ---
 
-### 2. Collect Data for a Specific Time Period
+## 2. Collect Data for a Specific Time Period
 
 Use the same keyword for the entire period. Start by collecting **Top Tweets**, and if necessary, switch to **Latest Tweets** to reach your target count.  
 If your goal is to collect **100 tweets across one month**, we recommend dividing the timeframe into **weekly chunks** for balanced sampling.
@@ -59,7 +61,7 @@ If your goal is to collect **100 tweets across one month**, we recommend dividin
   
 ---
 
-### 3. Format for Bright Data Scraping
+## 3. Format for Bright Data Scraping
 
 Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to scrape full post content using **Bright Data**.
 
@@ -85,7 +87,7 @@ Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to 
 
 ---
 
-### 4. Clean and Parse Your Scraped Tweet Data
+## 4. Clean and Parse Your Scraped Tweet Data
 
 After scraping user profiles with Bright Data, your output will contain many metadata fields about the account and the scraped posts. One important field is:
 
@@ -209,7 +211,7 @@ Go to: [https://www.bram.us/](https://www.bram.us/2017/11/22/accessing-a-tweet-u
 
 ---
 
-### 5. What to Submit
+## 5. What to Submit
 
 Each team should submit the following:
 
@@ -254,7 +256,7 @@ You may optionally submit a separate file that includes:
 
 ---
 
-## Notes
+## 6. Further Notes
 
 - You may work in pairs or small teams
 - Be consistent: only collect tweets containing the **exact keyword or hashtag**
