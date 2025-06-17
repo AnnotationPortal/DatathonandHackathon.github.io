@@ -2,9 +2,15 @@
 
 This task guides you through collecting X/Twitter tweet data using Bright Data and preparing it for upload to our annotation portal: [annotate.osome.iu.edu](https://annotate.osome.iu.edu).
 
+---
+
 ## How to Generate a Discourse Dataset from X (formerly Twitter)
 
-- Collect a curated dataset from **X (Twitter)** using keyword-based search and uploading post URLs to **Bright Data** for full content scraping.
+1. [Search for a Specific Keyword or Hashtag](#1-search-for-a-specific-keyword-or-hashtag)  
+2. [Collect Data for a Specific Time Period](#2-collect-data-for-a-specific-time-period)  
+3. [Format for Bright Data Scraping](#3-format-for-bright-data-scraping)  
+4. [Clean and Parse Your Scraped Tweet Data](#4-clean-and-parse-your-scraped-tweet-data)  
+5. [What to Submit](#5-what-to-submit)
 
 ---
 
@@ -18,7 +24,8 @@ You will then submit the list of tweet URLs to **Bright Data** for structured sc
 
 ## Step-by-Step Instructions
 
-### 1. Search for a Specific Keyword or Hashtag
+## 1. Search for a Specific Keyword or Hashtag
+...
 
 We recommend starting with the **Advanced Search** feature on [X.com](https://x.com) and using **newly created accounts** to avoid personalized search bias.
 
