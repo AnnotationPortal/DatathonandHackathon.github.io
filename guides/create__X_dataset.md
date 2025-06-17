@@ -253,6 +253,8 @@ You may optionally submit a separate file that includes:
 - `tweet_id`, `username`, `text`, `date_posted`, `likes`, `reposts`, `views`, `biased`
 - For students interested in exploring engagement, virality, or post type
 
+> **Note:** While this is listed as optional, submitting this file will be taken into account for 💡full credit💡 and may be essential to receive 💡maximum points💡 for Challenge #1.
+
 ---
 
 ### Reminder
