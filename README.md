@@ -16,7 +16,9 @@ https://isca.indiana.edu/publication-research/social-media-project/datathon-2025
 
 ## Challenge Overview
 
-#### Before beginning your tasks, please read the full challenge description thoroughly: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Datathon_Challenge.pdf)
+- Before beginning your tasks, please read the full challenge description thoroughly: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Datathon_Challenge.pdf)
+- Also, check all the links in this ReadMe file.
+
 
 ### #1 Challenge: Dataset Creation (July 13–20, 2025)
 
