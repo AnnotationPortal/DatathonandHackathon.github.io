@@ -86,7 +86,7 @@ Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to 
 > https://x.com/someuser2,100
 > ```
 
-*To reach the desired frequency of the dataset including the keyword or hashtag, you may need to scrape multiple hundreds of tweets. Keep in mind that this process is iterative and time-consuming and may require you to expand your list of accounts further.*
+> To reach the desired frequency of the dataset including the keyword or hashtag, you may need to scrape multiple hundreds of tweets. Keep in mind that this process is iterative and time-consuming and may require you to expand your list of accounts further.*
 
 ---
 
