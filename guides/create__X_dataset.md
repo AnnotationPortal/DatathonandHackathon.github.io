@@ -77,7 +77,7 @@ Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to 
 
 | URL                              | max_number_of_posts            |
 |----------------------------------|--------------------------------|
-| Full Account URL (one per row)     |Use a fixed value like `100`    |
+| Full Account URL (one per row)     |Use a fixed value like `100`  |
 
 > Example CSV structure:
 >
@@ -134,7 +134,7 @@ Each tweet object inside `posts` includes:
 We recommend using **Python** 🐍 for this task.  
 Please see the code snippet below for parsing the output file.
 
-*Check [Section 6](#6-working-with-data-output-in-google-colab) to learn how to run the code without installing Python on your personal computer.
+*Check [Section 6](#6-working-with-data-output-in-google-colab) to learn how to run the code without installing Python on your personal computer.*
 
 This script processes the `.csv` file you receive from **Bright Data**, extracts:
   1. all relevant tweet-level information,
