@@ -92,7 +92,7 @@ Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to 
 
 ## 4. Clean and Parse Your Scraped Tweet Data
 
-After scraping user profiles with Bright Data, your output will contain many metadata fields about the account and the scraped posts. One important field is:
+After scraping content from user profiles with Bright Data, your output will contain many metadata fields about the account and the scraped posts. One important field is:
 
 - `posts`: This contains a list of tweets returned for each profile as a **JSON string**.
 
