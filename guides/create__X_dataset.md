@@ -133,15 +133,12 @@ Each tweet object inside `posts` includes:
 
 We recommend using **Python** 🐍 for this task.  
 
-Please see the code snippet below for parsing the output file.
-
-Use the script below to extract Tweet ID and description for each tweet, and save as a `.csv` for further filtering and annotation.
-
+- Please see the code snippet below for parsing and extracting the Tweet ID and description for each tweet.
 
 *What the script does* — It processes the `.csv` file you receive from **Bright Data** and extracts:
   1. all relevant tweet-level information
   2. filters posts by your chosen keywords or hashtags
-
+  3. saves as a `.csv` for further filtering and annotation.
 
 Important: *Check [Section 6](#6-working-with-data-output-in-google-colab) to learn how to run the code without installing Python on your personal computer.*
 ```python
