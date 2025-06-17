@@ -75,7 +75,7 @@ Once you’ve collected all tweet URLs (in a `.csv` or `.txt` file), prepare to 
 
 | URL                              | max_number_of_posts            |
 |----------------------------------|--------------------------------|
-| Full tweet URL (one per row)     |Use a fixed value like `100`    |
+| Full Account URL (one per row)     |Use a fixed value like `100`    |
 
 > Example CSV structure:
 >
