@@ -4,11 +4,21 @@
 The Datathon and Machine Learning Competition will take place in **July 2025**. General information can be found here:  
 https://isca.indiana.edu/publication-research/social-media-project/datathon-2025/index.html
 
-# Challenge Description
+## Table of Contents
+
+1. [Challenge Overview](#challenge-overview)  
+2. [Deliverables](#deliverables)  
+3. [Prizes & Certificates](#prizes--certificates)  
+4. [Resources and Past Events](#resources-and-past-events)
+
+---
+
+
+## Challenge Overview
 
 #### Before beginning your tasks, please read the full challenge description thoroughly: [2025 Task Instructions](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/tree/main/Datathon_Challenge.pdf)
 
-## #1 CHALLENGE: Building a Dataset with Bright Data (July 13 to July 20, 2025)
+### #1 Challenge: Dataset Creation (July 13–20, 2025)
 
 More information will be provided at the workshop on July 20.
 
@@ -29,7 +39,7 @@ Participants are invited to use our Annotation Portal at https://datathon.annota
 
 
 
-## #2 CHALLENGE: Modeling and Evaluation (July 20 to July 27, 2025)
+### #2 Challenge: Modeling and Evaluation (July 20–27, 2025)
 
 Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
 
@@ -80,8 +90,7 @@ You can share the files with us in any way you want. The easiest for you is prob
 All deliverables, including annotations and evaluations, must be summarized and completed by **August 5, 2025**.
 
 
-## Prizes
-
+## Prizes & Certificates
 - 1st Place Team: $1,000 gift certificate  
 - 2nd Place Team: $600 gift certificate  
 - 3rd Place Team: $400 gift certificate  
@@ -93,7 +102,7 @@ All deliverables, including annotations and evaluations, must be summarized and 
 Selected participants will receive a certificate recognizing their achievement and skills.
 
 
-## Links and Related Content
+## Resources and Past Events
 
 - [Tutorial and Material on Social Media Text pre-processing and classification](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/NLP_ML_Social_Media_Processing.md)
 - [General NLP-Tools, Guides, and Tutorials for all levels](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/c8cc15cf6231e0e994162514d60e4737c34f0cc9/NLP-Tools%20and%20Guides.md)
