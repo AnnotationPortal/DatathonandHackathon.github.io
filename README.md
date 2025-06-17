@@ -56,7 +56,7 @@ Each dataset consists of user-generated content annotated for antisemitic hate s
 
 The labeled English-language datasets contain social media messages from X/Twitter with the keywords "Jews, Israel, Kikes, or Zionazi*," which are classified as either biased or non-biased based on 100% agreement between two annotators.
 
-The labeled German-language dataset contains social media messages from X/Twitter with the keywords "Juden" (meaning "Jews") and "Israel", which is classified as either biased or non-biased based on 100% agreement between two annotators.
+The labeled German-language dataset contains social media messages from X/Twitter with the keywords "Juden" (meaning "Jews") and "Israel", which are classified as either biased or non-biased based on 100% agreement between two annotators.
 
 Tasks:
 1. Download the (Goldstandard/GroundTruth) datasets listed above.
