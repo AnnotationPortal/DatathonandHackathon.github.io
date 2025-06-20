@@ -27,7 +27,6 @@ To complete this challenge, make sure you have:
 - Familiarity with **X’s Advanced Search**  
   *(https://twitter.com/search-advanced)*  
 - A **Google account** for using **Google Colab**  
-- Basic experience with CSVs and Python
 
 ---
 
