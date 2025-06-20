@@ -33,7 +33,7 @@ To complete this challenge, make sure you have:
 ## How to Generate a Discourse Dataset from X (formerly Twitter)
 
 1. [Search for a Specific Keyword or Hashtag](#1-search-for-a-specific-keyword-or-hashtag)  
-2. [Collect Data for a Specific Time Period](#2-collect-data-for-a-specific-time-period)  
+2. [Collect Data from a Broad Variety of Different Users](#2-collect-data-from-a-broad-variety-of-different-users)  
 3. [Format for Bright Data Scraping](#3-format-for-bright-data-scraping)  
 4. [Clean and Parse Your Scraped Tweet Data](#4-clean-and-parse-your-scraped-tweet-data)  
 5. [What to Submit](#5-what-to-submit)
@@ -68,24 +68,30 @@ We recommend starting with the **Advanced Search** feature on [X.com](https://x.
 
 ---
 
-## 2. Collect Data for a Specific Time Period
+## 2. Collect Data from a Broad Variety of Different Users
 
-Use the same keyword for the entire period. Start by collecting **Top Tweets**, and if necessary, switch to **Latest Tweets** to reach your target count.  
-If your goal is to collect **100 tweets across one month**, we recommend dividing the timeframe into **weekly chunks** for balanced sampling.
+To ensure your dataset includes a wide range of perspectives and accounts, we recommend searching across multiple timeframes when collecting tweet URLs.
 
-| Period (September 2024)  | Dates                 |
-|--------------------------|-----------------------|
-| Week 1                   | September 1–7, 2024   |
-| Week 2                   | September 8–13, 2024  |
-| Week 3                   | September 14–21, 2024 |
-| Week 4                   | September 22–29, 2024 |
+Even though you cannot apply strict date filters during scraping, using **X/Twitter’s Advanced Search** with different date ranges during manual collection can help you:
+
+- Capture more diverse voices
+- Avoid over-representation from a single trending event
+- Ensure better distribution of accounts in your dataset
+
+**Important:** Your goal is to collect **100 tweets total**; consider dividing your search into **weekly or 2–3 day intervals**.
+
+| Example Time Ranges (September 2024) |                       |
+|--------------------------------------|-----------------------|
+| Week 1                               | September 1–7, 2024   |
+| Week 2                               | September 8–13, 2024  |
+| Week 3                               | September 14–21, 2024 |
+| Week 4                               | September 22–29, 2024 |
 
 #### Guidelines:
-- Collect **100 tweets** total for your dataset by using the **Advanced Search** feature to select relevant accounts
-- Each tweet must contain the **exact keyword or hashtag** you chose
-- Use **two-day intervals** within each week to find more content if needed
-- Include the best possible variety of different Accounts
-- Prioritize tweets from Accounts with **200+ views**, but it’s acceptable to include some below this threshold when necessary
+- Collect **100 tweets** total that include the **exact keyword or hashtag** you selected
+- Use **X’s Advanced Search** to vary the date range during collection
+- Aim for a wide variety of **different user accounts**
+- Prioritize tweets with **200+ views**, but lower-view tweets can be included when relevant
   
 ---
 
