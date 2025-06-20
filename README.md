@@ -50,7 +50,7 @@ Tasks:
 
 5. Prepare a [X/Twitter dataset](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/create__X_dataset.md), and include a dataset report with label definitions, distribution information, and annotation rationale.
 
-
+---
 ### #2 Challenge: Modeling and Evaluation (July 20–27, 2025)
 
 Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
@@ -82,6 +82,8 @@ You provide the deliverables in the form of software packages with instructions 
 
 The evaluation committee carries out an independent assessment of the teams' performance.
 
+---
+
 **Deliverables for Challenge #1 include:** 
    - Adapting and implementing an existing definition of antisemitism
    - Reporting how the data was scraped and which guidelines were used to classify and annotate the data in a standardized way
@@ -97,9 +99,9 @@ Clearly report:
    - Your score and a brief interpretation (e.g., “moderate agreement,” “high agreement”)
 
 ---
-### Deliverables for Challenge #2: Modeling and Evaluation
 
-Build and evaluate a transformer-based system for detecting antisemitic content using our pre-annotated gold standard datasets.
+**Deliverables for Challenge #2:**
+   - Build and evaluate a transformer-based system for detecting antisemitic content using our pre-annotated gold standard datasets.
 
 1. **Modeling Output**
    - Fine-tune a transformer model (e.g., DeBERTa, RoBERTa, BERTweet, HateBERT) using the provided annotated datasets.
