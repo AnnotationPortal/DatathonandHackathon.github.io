@@ -315,7 +315,7 @@ To parse, filter, and prepare your tweet dataset using the provided **Python** ð
 ## 7. Further Notes
 
 - You may work in pairs or small teams
-- Be consistent: only collect tweets containing the **exact keyword or hashtag**
+- Be consistent: only collect tweets containing the **exact keywords or hashtags**
 - Avoid replies or retweets unless directly relevant
 
 ---
