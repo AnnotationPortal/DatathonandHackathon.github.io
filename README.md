@@ -86,18 +86,43 @@ The evaluation committee carries out an independent assessment of the teams' per
    - Adapting and implementing an existing definition of antisemitism
    - Reporting how the data was scraped and which guidelines were used to classify and annotate the data in a standardized way
 
-**Deliverables for Challenge #2 include:**
-   - Evaluation Report + Metrics (the performance measure for the classifiers will be F1 scores)
+Gain **+10 bonus points** by evaluating the consistency of your team’s annotations using an inter-annotator agreement (IAA) metric. This means:
+   - Having at least two annotators label a shared subset of the data
+   - Calculating a formal agreement score, such as:
+      - **Cohen’s Kappa** (for binary or pairwise categorical annotation)
+      - **Krippendorff’s Alpha** (especially for multi-class or missing data)
 
-**You can earn bonus points:**
-   - Gain +10 additional points for Challenge #1 by providing additional evaluation metrics, such as Cohen's Kappa or Krippendorff's Alpha, for Inter-Annotator Agreement (IAA).
-   - Gain +10 additional points for Challenge #2 by using the fine-tuned model on unseen data.
+Clearly report:
+   - Which subset was double-annotated
+   - Your score and a brief interpretation (e.g., “moderate agreement,” “high agreement”)
+
+---
+### Deliverables for Challenge #2: Modeling and Evaluation
+
+Build and evaluate a transformer-based system for detecting antisemitic content using our pre-annotated gold standard datasets.
+
+1. **Modeling Output**
+   - Fine-tune a transformer model (e.g., DeBERTa, RoBERTa, BERTweet, HateBERT) using the provided annotated datasets.
+   - Clearly document the model used and include a summary of your training setup (train/test split, random seed, training strategy).
+
+2. **Code Submission**
+   - Upload or link your training script(s), configuration files, and any preprocessing pipeline.
+   - Your code should run on any standard environment (e.g., Unix or Windows, preferably with Conda or pip environment info).
+
+You can earn up to **+10 bonus points** by testing your model on **unseen data**:
+
+- Collect a small new sample of tweets using Bright Data or another method
+- Manually annotate 20–30 examples using the same label scheme
+- Apply your trained model to this new set
+- Report performance and reflect on how well the model generalizes
 
 You can share the files with us in any way you want. The easiest for you is probably uploading it to any cloud storage and sharing the link with us.
 
+--- 
+
 All deliverables, including annotations and evaluations, must be summarized and completed by **August 5, 2025**.
 
-
+---
 ## Prizes & Certificates
 - 1st Place Team: $1,000 gift certificate  
 - 2nd Place Team: $600 gift certificate  
