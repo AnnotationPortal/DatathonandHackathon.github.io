@@ -10,7 +10,6 @@
 ---
 
 ### **Options (Check at least one):**
-
 - [ ] None or n/a
 - [ ] **1.0** Hatred towards Jews
 - [ ] **3.1.1** Justifying harming of Jews in the name of a radical ideology
@@ -24,3 +23,8 @@
 - [ ] **3.1.9** Using the symbols and images associated with classic antisemitism (e.g., blood libel) to characterize Israel or Israelis
 - [ ] **3.1.10** Drawing comparisons of contemporary Israeli policy to that of the Nazis
 - [ ] **3.1.11** Holding Jews collectively responsible for actions of the state of Israel
+---
+Antisemitism
+- [ ] Yes
+- [ ] No
+- [ ] Calling Out
