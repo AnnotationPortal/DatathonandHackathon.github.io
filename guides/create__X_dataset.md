@@ -32,7 +32,7 @@ You will then submit the list of tweet URLs to **Bright Data** for structured sc
 
 We recommend starting with the **Advanced Search** feature on [X.com](https://x.com) and using **newly created accounts** to avoid personalized search bias.
 
-- **Search for one keyword only** (e.g., `Jews`, `#Zionists`, etc.)
+- **Search for at least one or multiple keywords** (e.g., `Jews`, `#Zionists`, etc.)
 - Use the **“Top” tab** in X’s search results for high-engagement posts
 - Adjust the filters to a specific time range (see below)
 - Open the user profile in new tabs and copy the full **accound URL**
