@@ -1,6 +1,33 @@
-# Task: X/Twitter Data Collection and Annotation
 
-This readme guides you through collecting X/Twitter tweet data using Bright Data and preparing it for upload to our annotation portal: [annotate.osome.iu.edu](https://annotate.osome.iu.edu).
+# Challenge #1: Create a Discourse Dataset from X/Twitter</strong></summary>
+
+---
+
+Welcome to **Challenge #1** of the 2025 Datathon: **Creating a Discourse Dataset from X (formerly Twitter)**
+
+In this task, your goal is to collect, clean, and annotate a small but focused dataset of tweets related to antisemitism and Israel-related discourse. You’ll gain practical experience with platform search, data scraping, and structured annotation. This ReadMe guides you through collecting X/Twitter tweet data using Bright Data and preparing it for upload to our annotation portal: [annotate.osome.iu.edu](https://annotate.osome.iu.edu).
+
+
+---
+
+## What You'll Be Doing
+- Use **X/Twitter's Advanced Search** to identify relevant tweets
+- Collect tweet URLs based on defined timeframes
+- Scrape post content using **Bright Data**
+- Clean and filter the dataset based on your keyword(s)
+- Upload and annotate the dataset using the **[Annotation Portal](https://annotate.osome.iu.edu)**
+
+---
+
+## Prerequisites
+
+To complete this challenge, make sure you have:
+
+- An active **X (Twitter)** account  
+- Familiarity with **X’s Advanced Search**  
+  *(https://twitter.com/search-advanced)*  
+- A **Google account** for using **Google Colab**  
+- Basic experience with CSVs and Python
 
 ---
 
