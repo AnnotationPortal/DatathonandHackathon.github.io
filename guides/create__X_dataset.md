@@ -281,14 +281,6 @@ Each team should submit the following:
   - The annotation scheme that was used as a standardized annotation guideline, e.g., based on the [IHRA-WDA](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/guides/annotation_scheme.md)
 
 
-##### C. (Optional) Full Extracted Dataset
-
-You may optionally submit a separate file that includes:
-- `tweet_id`, `username`, `text`, `date_posted`, `likes`, `reposts`, `views`, `biased`
-- For students interested in exploring engagement, virality, or post type
-
-> **Note:** While this is listed as optional, submitting this file will be taken into account for 💡full credit and may be 💡essential to receive 💡maximum points for Challenge #1.
-
 ---
 
 ### Important Reminder
@@ -319,9 +311,9 @@ To parse, filter, and prepare your tweet dataset using the provided **Python** �
 
 ## 7. Further Notes
 
-- You may work in pairs or small teams
+- You will work and collaborate in small teams up to 4—5 members
 - Be consistent: only collect tweets containing the **exact keywords or hashtags**
-- Avoid replies or retweets unless directly relevant
+- Avoid collecting identical content, e.g. retweets. Although retweets are generally not excluded, duplicates of this content type should not appear multiple times within the dataset.
 
 ---
 
