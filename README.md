@@ -27,7 +27,7 @@ More information will be provided at the workshop on July 20.
 Goal: Create a small but meaningful labeled dataset for hate speech detection.
 
 Tasks:
-1. Use the [Bright Data](https://brightdata.com/products/web-scraper/functions) interface to scrape at least 100 relevant user-generated posts.
+1. Use the [Bright Data](https://brightdata.com/products/web-scraper/functions) interface to scrape at least 100 relevant user-generated posts from [X.com](https://X.com).
 2. Define your scraping focus (hashtags, user groups, topics) and document your rationale and potential biases.
 3. Annotate your data using:
    - A definition of antisemitism and hate speech
