@@ -66,7 +66,7 @@ The labeled English-language datasets contain social media messages from X/Twitt
 
 Tasks:
 1. Download the (Goldstandard/GroundTruth) datasets listed above.
-2. Use tools such as scikit-learn, spaCy, or Hugging Face Transformers to train a model.
+2. Use state-of-the-art (SOTA) transformer models to train and fine-tune a system to detect antisemitic content.
 3. Evaluate your model:
    - Report precision, recall, F1-score, and display a confusion matrix.
    - List the hyperparameters used for training.
