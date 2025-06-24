@@ -21,11 +21,11 @@ If a link is displayed, copy and paste it in a browser to verify whether the con
 
 ---
 
-## 2. Is the post antisemitic according to IHRA?
+## 2. Is the post antisemitic according to IHRA-WDA?
 
 Choose one of the following five options based on your confidence:
 
-- [ ]Confident not antisemitic  
+- [ ] Confident not antisemitic  
 - [ ] Probably not antisemitic  
 - [ ] I don’t know  
 - [ ] Probably antisemitic  
