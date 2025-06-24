@@ -245,6 +245,14 @@ df_out.to_csv("/content/sample_data/parsed_tweets_filtered.csv", index=False, en
 
 ---
 
+## 5. What to Submit
+
+Each team should submit the following:
+
+##### A. Cleaned Annotation Dataset (.csv)
+
+*After preprossing --> Prepare the final dataset for upload to our annotation portal*
+
 > ⚠️ **Important:**  
 > You may need to process **multiple Bright Data files** until you reach a sample of 100 relevant tweets.  
 > Always ensure your output includes **only tweets containing your selected keyword or hashtag** and follows the required format.
@@ -255,7 +263,7 @@ Once you've parsed your tweets, you can transform the output into the required f
 
 ### 🐍 Code: Convert to Annotation-Ready Format
 
-This code generates a `.csv` file with the two required columns: `TweetID` and `Username`.
+- This code generates a `.csv` file with the two required columns: `TweetID` and `Username`.
 
 ```python
 import pandas as pd
@@ -273,13 +281,6 @@ transformed_df.to_csv(output_file, index=False)
 files.download(output_file)
 ```
 
-## 5. What to Submit
-
-Each team should submit the following:
-
-##### A. Cleaned Annotation Dataset (.csv)
-
-*After preprossing --> Prepare the final dataset for upload to our annotation portal*
 
 - File must contain only tweets that include **one or more of your selected keywords or hashtags**
 - Format the file as follows:
