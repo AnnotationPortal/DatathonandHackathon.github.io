@@ -230,7 +230,7 @@ for _, row in df.iterrows():
 
 # Save parsed and filtered results to CSV
 df_out = pd.DataFrame(parsed_rows)
-df_out.to_csv("parsed_tweets_filtered.csv", index=False, encoding="utf-8")
+df_out.to_csv("/content/sample_data/parsed_tweets_filtered.csv", index=False, encoding="utf-8")
 
 ```
 
@@ -268,7 +268,7 @@ parsed_df = pd.read_csv("/content/sample_data/parsed_tweets_filtered.csv")
 transformed_df = parsed_df.rename(columns={"tweet_id": "TweetID"})[["TweetID", "Username"]]
 
 # Step 3: Save and download the result
-output_file = "parsed_tweets_for_annotation.csv"
+output_file = "/content/sample_data/parsed_tweets_for_annotation.csv"
 transformed_df.to_csv(output_file, index=False)
 files.download(output_file)
 ```
