@@ -53,6 +53,7 @@ If you judged the post to be antisemitic, select one or more of the following ca
 - [ ] **3.1.10** Drawing comparisons between Israeli policy and that of the Nazis  
 - [ ] **3.1.11** Holding Jews collectively responsible for actions of the state of Israel
 
+> 💡 Multiple Choice!
 ---
 
 ## 4. What content type transports the antisemitic message? *(check all that apply)*
@@ -65,6 +66,7 @@ If you judged the post to be antisemitic, select one or more of the following ca
 - [ ] Link to antisemitic text or video
 
 > 💡 If the antisemitic message is embedded in an image or through a caption/hashtag, check the appropriate boxes.
+> 💡 Multiple Choice!
 
 ---
 
