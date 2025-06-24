@@ -56,7 +56,7 @@ You will then submit the list of tweet URLs to **Bright Data** for structured sc
 ## 1. Search for a Specific Keyword or Hashtag
 
 
-We recommend starting with the **Advanced Search** feature on [X.com](https://x.com) and using **newly created accounts** to avoid personalized search bias.
+We recommend starting with the [**Advanced Search**](https://twitter.com/search-advanced) feature on [X.com](https://x.com) and using **newly created accounts** to avoid personalized search bias.
 
 - **Search for at least one or multiple keywords** (e.g., `Jews`, `#Zionists`, etc.)
 - Use the **“Top” tab** in X’s search results for high-engagement posts
