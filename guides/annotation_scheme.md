@@ -1,4 +1,4 @@
-# Annotation Guidelines
+# Annotation Guideline
 
 This form is to be used when annotating content for antisemitism based on the **IHRA Working Definition of Antisemitism (IHRA-WDA)**. Please follow the instructions carefully and refer to IHRA paragraph numbers where applicable.
 
