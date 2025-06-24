@@ -160,6 +160,17 @@ Each tweet object inside `posts` includes:
 - `videos`: video info (if any)  
 - `hashtags`: extracted hashtags (if available)
 
+## Process Your Bright Data Output in Google Colab
+
+### Uploading Your File in Colab
+
+When you open your notebook in Google Colab, follow these steps to upload your Bright Data output file:
+
+1. Click the **folder icon** (📁) on the left-hand side.
+2. Open the folder named **`content/`**.
+3. **Right-click** on the `content` folder — a dropdown menu will appear.
+4. Click **“Upload”** and select your Bright Data `.csv` file(s).
+5. Once uploaded, run the code snippet below to format your data.
 
 #### Parsing Script: Extract Tweets and Format for Annotation
 
@@ -234,18 +245,33 @@ df_out.to_csv("parsed_tweets_filtered.csv", index=False, encoding="utf-8")
 
 ---
 
-####  How to View a Tweet Using Only Its ID
-
-If you only have the `TweetID` (and not the full URL), you can still access the original tweet in your browser by using the following helper site:
-
-Go to: [https://www.bram.us/](https://www.bram.us/2017/11/22/accessing-a-tweet-using-only-its-id-and-without-the-twitter-api/)
-
-##### Instructions:
-1. Copy any Tweet ID from your dataset (e.g., `1585811080431321088`)
-2. Paste it into the helper site linked above
-3. It will redirect you to the full tweet
+> ⚠️ **Important:**  
+> You may need to process **multiple Bright Data files** until you reach a sample of 100 relevant tweets.  
+> Always ensure your output includes **only tweets containing your selected keyword or hashtag** and follows the required format.
 
 ---
+
+Once you've parsed your tweets, you can transform the output into the required format for the annotation portal.
+
+### 🐍 Code: Convert to Annotation-Ready Format
+
+This code generates a `.csv` file with the two required columns: `TweetID` and `Username`.
+
+```python
+import pandas as pd
+
+# Step 1: Load the uploaded file
+# Adjust the path if necessary — this assumes you're using the default Colab folders
+parsed_df = pd.read_csv("/content/sample_data/parsed_tweets_filtered.csv")
+
+# Step 2: Transform into the required format
+transformed_df = parsed_df.rename(columns={"tweet_id": "TweetID"})[["TweetID", "Username"]]
+
+# Step 3: Save and download the result
+output_file = "parsed_tweets_for_annotation.csv"
+transformed_df.to_csv(output_file, index=False)
+files.download(output_file)
+```
 
 ## 5. What to Submit
 
@@ -314,6 +340,19 @@ To parse, filter, and prepare your tweet dataset using the provided **Python** �
 - You will work and collaborate in small teams up to 4—5 members
 - Be consistent: only collect tweets containing the **exact keywords or hashtags**
 - Avoid collecting identical content, e.g. retweets. Although retweets are generally not excluded, duplicates of this content type should not appear multiple times within the dataset.
+
+####  How to View a Tweet Using Only Its ID
+
+If you only have the `TweetID` (and not the full URL), you can still access the original tweet in your browser by using the following helper site:
+
+Go to: [https://www.bram.us/](https://www.bram.us/2017/11/22/accessing-a-tweet-using-only-its-id-and-without-the-twitter-api/)
+
+##### Instructions:
+1. Copy any Tweet ID from your dataset (e.g., `1585811080431321088`)
+2. Paste it into the helper site linked above
+3. It will redirect you to the full tweet
+
+---
 
 ---
 
