@@ -1,12 +1,3 @@
-<div style="font-size: 0.2em; color: #555; margin-top: 2em;">
-  <p>
-    All materials in this repository were created by <strong>Daniel Miehling</strong> (Indiana University / ISCA), unless otherwise noted.
-  </p>
-  <p>
-    Please contact <a href="mailto:damieh@iu.edu">damieh@iu.edu</a> for reuse permissions or collaboration inquiries.
-  </p>
-</div>
-
 # Annotation Guideline
 
 This form is to be used when annotating content for antisemitism based on the **IHRA Working Definition of Antisemitism (IHRA-WDA)**. Please follow the instructions carefully and refer to IHRA paragraph numbers where applicable.
@@ -87,3 +78,13 @@ This includes posts that criticize, condemn, or report on antisemitic speech or 
 - [ ] No
 
 > 💡 Example: A post sharing screenshots of antisemitic messages as part of a campaign against hate would be marked as “Yes.”
+---
+
+<div style="font-size: 0.2em; color: #555; margin-top: 2em;">
+  <p>
+    All materials in this repository were created by <strong>Daniel Miehling</strong> (Indiana University / ISCA), unless otherwise noted.
+  </p>
+  <p>
+    Please contact <a href="mailto:damieh@iu.edu">damieh@iu.edu</a> for reuse permissions or collaboration inquiries.
+  </p>
+</div>
