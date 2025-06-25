@@ -154,7 +154,9 @@ Information on the 2024 Datathon and Machine Learning Competition can be found h
 [PPT from January 15, 2023, on psychological and historical reasons for racism and antisemitism](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Psychological%20and%20Historical%20Reasons%20for%20Racism%20and%20Antisemitism.pptx)
 
 [PPT by Damir Cavar, January 29, 2023, Corpus Standards and Evaluation](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/Corpus_Format_Selection.pdf) and [Video](https://iu.mediaspace.kaltura.com/media/t/1_5sfcj3ix)
+
 ---
+
 <div style="font-size: 0.2em; color: #555; margin-top: 2em;">
   <p>
     All materials in this repository were created by <strong>Daniel Miehling</strong> (Indiana University / ISCA), unless otherwise noted.
