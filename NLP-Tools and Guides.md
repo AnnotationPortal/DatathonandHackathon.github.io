@@ -40,7 +40,27 @@
 
 ##### Social Blade - Insights about users, content dissemination and trends. https://socialblade.com/ 
 
-##### Voyant Tools - for textual analysis and visualizations. https://voyant-tools.org/   
+##### Voyant Tools - for textual analysis and visualizations. https://voyant-tools.org/
+
+-----------------------------------------------------
+
+
+### Recommended Transformer Models for Hate Speech / Antisemitism Detection
+
+These models can be fine-tuned for detecting antisemitic or hateful content on social media platforms like X/Twitter.
+
+- [`cardiffnlp/twitter-roberta-base-offensive`](https://huggingface.co/cardiffnlp/twitter-roberta-base-offensive)  
+  Pretrained on over 58M English tweets, this model is designed for offensive language detection on Twitter/X.
+
+- [`microsoft/mdeberta-v3-base`](https://huggingface.co/microsoft/mdeberta-v3-base)  
+  A strong multilingual baseline with excellent performance on general classification tasks.
+
+- [`vinai/bertweet-base`](https://huggingface.co/docs/transformers/en/model_doc/bertweet)  
+  The first BERT model trained on English tweets (850M), ideal for social media text and noisy language.
+
+- [`GroNLP/hateBERT`](https://huggingface.co/GroNLP/hateBERT)  
+  Fine-tuned on a large Reddit corpus containing hate speech; effective for identifying highly toxic content.
+
 
 -----------------------------------------------------
 
