@@ -1,8 +1,8 @@
 ### Dear Participants, 
 
-- *In preparation for the Datathon/Hackathon, a basic knowledge of Natural Language Processing (NLP) in Python is recommended but not mandatory.* 
+- In preparation for the Datathon/Hackathon, a basic knowledge of Natural Language Processing (NLP) in Python is recommended but not mandatory.
 
-- *If you already have some experience in coding, we recommend installing the following libraries and packages on your local machine below:*
+- If you already have some experience in coding, we recommend installing the following libraries and packages on your local machine below:
 
 -----------------------------------------------------
 
