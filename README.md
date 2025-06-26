@@ -31,7 +31,7 @@ Tasks:
 2. Define your scraping focus (hashtags, user groups, topics) and document your rationale and potential biases.
 3. Annotate your data using a structured definition of antisemitism and hate speech.
    - We provide a standardized annotation scheme based on the **IHRA Working Definition (IHRA-WDA)**, including paragraph-level categories such as conspiracy narratives, Holocaust distortion, and double standards toward Israel.
-   - This scheme is available here: [Annotation Scheme (GitHub)](https://github.com/damieh1/datathon_2025/blob/main/annotation_scheme.md)
+   - This scheme is available here: [Annotation Scheme (GitHub)]([https://github.com/damieh1/datathon_2025/blob/main/annotation_scheme.md)
    - Participants are expected to use this scheme or adapt it with justification.
    - However, if your team prefers to engage with alternative frameworks such as the [**Nexus Document**](https://nexusproject.us/nexus-resources/the-nexus-document/) or the [**Jerusalem Declaration on Antisemitism (JDA)**](https://jerusalemdeclaration.org), please note that these do not currently offer equivalent category-level structures. Therefore, any adaptation should include:
       - A mapping of concepts from the chosen framework into operational categories
@@ -54,6 +54,8 @@ Tasks:
 ### #2 Challenge: Modeling and Evaluation (July 20–27, 2025)
 
 Goal: Use our pre-annotated gold standard dataset to build and evaluate a hate speech detection system.
+
+View the full list of recommended models and links here: [Recommended Transformer Models](https://github.com/AnnotationPortal/DatathonandHackathon.github.io/blob/main/NLP-Tools%20and%20Guides.md#recommended-transformer-models-for-hate-speech--antisemitism-detection)
 
 Participants can select and combine the following curated datasets:
 - English data:
