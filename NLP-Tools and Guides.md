@@ -1,8 +1,8 @@
 ### Dear Participants, 
 
-##### In preparation for the Datathon/Hackathon, a basic knowledge of Natural Language Processing (NLP) in Python is recommended but not mandatory. 
+- *In preparation for the Datathon/Hackathon, a basic knowledge of Natural Language Processing (NLP) in Python is recommended but not mandatory.* 
 
-##### If you already have some experience in coding, we recommend installing the following libraries and packages on your local machine below: 
+- *If you already have some experience in coding, we recommend installing the following libraries and packages on your local machine below:*
 
 -----------------------------------------------------
 
@@ -38,7 +38,7 @@
 
 ### If you do not have coding experience, we recommend the following web tools
 
-. [Social Blade](https://socialblade.com/) - Insights about users, content dissemination and trends.
+- [Social Blade](https://socialblade.com/) - Insights about users, content dissemination and trends.
 
 - [Voyant Tools](https://voyant-tools.org/) - for textual analysis and visualizations. 
 
