@@ -10,37 +10,37 @@
 
 #### For processing textual data:
 
-##### [NLTK](https://www.nltk.org/install.html)
+- [NLTK](https://www.nltk.org/install.html)
 
 -----------------------------------------------------
 
 ### Data-visualization
 
-##### [HoloViews](https://holoviews.org/) 
+- [HoloViews](https://holoviews.org/) 
 
-##### [Plotly Express](https://plotly.com/python/plotly-express/) 
+- [Plotly Express](https://plotly.com/python/plotly-express/) 
 
 -----------------------------------------------------
 
 ### Basic NLP-tutorials
 
-##### [NLP for Beginners](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0#32ff)
+- [NLP for Beginners](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0#32ff)
 
-##### [How to use NLP in Python](https://towardsdatascience.com/how-to-use-nlp-in-python-a-practical-step-by-step-example-bd82ca2d2e1e)
+- [How to use NLP in Python](https://towardsdatascience.com/how-to-use-nlp-in-python-a-practical-step-by-step-example-bd82ca2d2e1e)
 
 -----------------------------------------------------
 
 ### Advanced NLP
 
-##### Natural Language Processing Tutorial for Deep Learning Researchers  - https://github.com/graykode/nlp-tutorial
+- Natural Language Processing Tutorial for Deep Learning Researchers  - https://github.com/graykode/nlp-tutorial
 
 -----------------------------------------------------
 
 ### If you do not have coding experience, we recommend the following web tools
 
-##### [Social Blade](https://socialblade.com/) - Insights about users, content dissemination and trends.
+. [Social Blade](https://socialblade.com/) - Insights about users, content dissemination and trends.
 
-##### [Voyant Tools](https://voyant-tools.org/) - for textual analysis and visualizations. 
+- [Voyant Tools](https://voyant-tools.org/) - for textual analysis and visualizations. 
 
 -----------------------------------------------------
 
