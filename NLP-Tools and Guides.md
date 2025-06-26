@@ -10,23 +10,23 @@
 
 #### For processing textual data:
 
-##### NLTK - https://www.nltk.org/install.html
+##### [NLTK](https://www.nltk.org/install.html)
 
 -----------------------------------------------------
 
 ### Data-visualization
 
-##### HoloViews - https://holoviews.org/ 
+##### [HoloViews](https://holoviews.org/) 
 
-##### Plotly Express - https://plotly.com/python/plotly-express/ 
+##### [Plotly Express](https://plotly.com/python/plotly-express/) 
 
 -----------------------------------------------------
 
 ### Basic NLP-tutorials
 
-##### NLP for Beginners - https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0#32ff 
+##### [NLP for Beginners](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0#32ff)
 
-##### How to use NLP in Python: https://towardsdatascience.com/how-to-use-nlp-in-python-a-practical-step-by-step-example-bd82ca2d2e1e
+##### [How to use NLP in Python](https://towardsdatascience.com/how-to-use-nlp-in-python-a-practical-step-by-step-example-bd82ca2d2e1e)
 
 -----------------------------------------------------
 
@@ -38,9 +38,9 @@
 
 ### If you do not have coding experience, we recommend the following web tools
 
-##### Social Blade - Insights about users, content dissemination and trends. https://socialblade.com/ 
+##### [Social Blade](https://socialblade.com/) - Insights about users, content dissemination and trends.
 
-##### Voyant Tools - for textual analysis and visualizations. https://voyant-tools.org/
+##### [Voyant Tools](https://voyant-tools.org/) - for textual analysis and visualizations. 
 
 -----------------------------------------------------
 
@@ -62,7 +62,6 @@ These models can be fine-tuned for detecting antisemitic or hateful content on s
   Fine-tuned on a large Reddit corpus containing hate speech; effective for identifying highly toxic content.
 
 
------------------------------------------------------
 
 ---
 
