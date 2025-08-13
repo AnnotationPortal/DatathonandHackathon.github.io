@@ -67,9 +67,10 @@ These models can be fine-tuned for detecting antisemitic or hateful content on s
 
 <div style="font-size: 0.2em; color: #555; margin-top: 2em;">
   <p>
-    All materials in this repository were created by <strong>Daniel Miehling</strong> (Indiana University / ISCA), unless otherwise noted.
+    All materials in this repository were created by <a href="https://damieh1.github.io/">Daniel Miehling</a>, unless otherwise noted.
   </p>
   <p>
     Please contact <a href="mailto:damieh@iu.edu">damieh@iu.edu</a> for reuse permissions or collaboration inquiries.
   </p>
 </div>
+
